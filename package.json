@@ -14,11 +14,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kkkiikkk/n-validator.git"
+    "url": "git+https://github.com/cCeverT/n-validator.git"
   },
   "keywords": [
     "validate",
     "type"
   ],
-  "homepage": "https://github.com/kkkiikkk/n-validator#readme"
+  "homepage": "https://github.com/cCeverT/n-validator#readme"
 }
